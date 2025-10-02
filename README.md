@@ -3,7 +3,8 @@
 This repository hosts the **OilMaster** interactive eLearning course, built with modern web standards for a responsive and engaging training experience. The course is published through **GitHub Pages** for easy access and sharing.
 
 ## 🔗 Live Demo
-👉 [View OilMaster Course](https://dgutensohn03.github.io/OilMaster/)
+👉 [View OilMaster Course](https://dgutensohn03.github.io/OilMaster/)  
+*(Tip: Right-click the link and choose **“Open link in new tab”** to keep this README open while viewing the course.)*
 
 ## 📂 Project Structure
 - **HTML files** – Individual course screens/pages  
