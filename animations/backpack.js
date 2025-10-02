@@ -1663,7 +1663,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,589,390.8);
 		
 		}
 					var bpCount = lectoraWindow.Var_BackPackCount.getValue();
-				console.log('bpCount: ' + bpCount)				
+				console.log('bpCount for reset: ' + bpCount)				
 				if (bpCount == 0) { 
 				createjs.Tween.get(exportRoot.levelBar.bar).to({
 			scaleX: 0
