@@ -1668,6 +1668,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,589,390.8);
 				createjs.Tween.get(exportRoot.levelBar.bar).to({
 			scaleX: 0
 		}, 0);
+	}
 		//console.log(this.levelBar.bar)
 		//console.log(this.levelBar)
 		//console.log(clip.getBounds())
